@@ -1,5 +1,5 @@
 # [miXTim font family](https://github.com/miXTim)
-![Github](https://img.shields.io/github/v/release/jgthms/mixtim?logo=miXTim)
+![Github](https://img.shields.io/github/v/release/mixtim/fonts?logo=miXTim)
 
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
@@ -68,7 +68,7 @@ Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
 Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 
 ## Copyright and license
-[![GitHub license](https://img.shields.io/github/license/miXTim/fonts)](https://github.com/miXTim/fonts/blob/main/LICENSE)
+![Github license](https://img.shields.io/badge/license-SIL 1.1-orange?logo=Github)
 
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
 
