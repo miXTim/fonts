@@ -65,10 +65,11 @@ Project is: _in progress_
 
 ## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
+Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 
 ## Copyright and license
-/* ![Github](https://img.shields.io/github/license/jgthms/bulma?logo=Github) */
+[![GitHub license](https://img.shields.io/github/license/miXTim/fonts)](https://github.com/miXTim/fonts/blob/main/LICENSE)
+
+Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
 
 Thanks for viewing/downloading ;)
-
-Code copyright 2021 Juande Megias Roca. Code released under [the LGPL license](https://github.com/jgthms/bulma/blob/master/LICENSE).
