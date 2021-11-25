@@ -68,7 +68,7 @@ Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
 Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 
 ## Copyright and license
-![Github](https://img.shields.io/static/v1?label=<license>&message=<SIL 1.1>&color=<orange>)
+![Github](https://img.shields.io/static/v1?label=<license>&message=<SIL1.1>&color=<orange>)
 
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
 
