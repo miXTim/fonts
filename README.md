@@ -9,6 +9,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 
 ## miXTim Regular: free sans-serif font with ligatures
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.
+
 > Live demo [_here_](https://www.example.com).
 
 ## Table of Contents
@@ -29,8 +30,8 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 ## Technologies Used
 - Inkscape 1.0
 - Glyphr Studio 1.1
-- [Convertio.co]https://convertio.co/
-- [FontSquirrel]https://www.fontsquirrel.com/tools/webfont-generator
+- [Convertio.co](https://convertio.co/)
+- [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
 ### Download & Install
 <a href="https://github.com/mixtim/fonts/releases/download/miXTim_Sans-serif_Regular_v1.0.zip"><img alt="miXTim_Sans-serif_Regular_v1.0.0.zip - November 15, 2021 - 58.4 KB" src="./extras/download.png" width="520" height="130"></a>
