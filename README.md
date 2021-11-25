@@ -8,8 +8,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 
 
 ## miXTim Regular: free sans-serif font with ligatures
-> miXTim Font is a **modern typeface** which focus on Clarity & Legibility.
-
+> miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
 > Live demo [_here_](https://www.example.com).
 
 ## Table of Contents
@@ -69,7 +68,7 @@ Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
 Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 
 ## Copyright and license
-![Github license](https://img.shields.io/badge/license-SIL 1.1-orange?logo=Github)
+![Github](https://img.shields.io/static/v1?label=<license>&message=<SIL 1.1>&color=<orange>)
 
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
 
