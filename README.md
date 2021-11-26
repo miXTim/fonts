@@ -4,7 +4,7 @@
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
 
-![type-template-1](./extras/logo.svg)
+<img alt="logotipo" src="./extras/logo.svg" width="313" height="51">
 
 
 ## miXTim Regular: free sans-serif font with ligatures
@@ -34,6 +34,9 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 
 ### Download & Install
 <a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/download.png" width="420" height="130"></a>
+<br />
+MD5:    c096a465469fd3006a18d2cbea9f7352
+SHA1:   0151a5d7f73d63557a09671e48f9f86b826be720
 
 ### Browser support
 ```html
