@@ -47,7 +47,7 @@ SHA1:   0151a5d7f73d63557a09671e48f9f86b826be720
 
 ```css
 /* Specify in CSS*/
-code @font-face { font-family: 'miXTim-regular', sans-serif;
+@font-face { font-family: 'miXTim-regular', sans-serif;
     src: url('mixtim-regular.eot');
     src: url('mixtim-regular.eot?#iefix') format('embedded-opentype'),
          url('mixtim-regular.ttf') format('truetype'),
@@ -59,7 +59,7 @@ code @font-face { font-family: 'miXTim-regular', sans-serif;
 }
 
 @supports (font-variation-settings: normal) {
-  code { font-family: 'miXTim-regular', sans-serif; }
+  element { font-family: 'miXTim-regular', sans-serif; }
 }
 ```
 
@@ -68,7 +68,7 @@ Project is: _in progress_
 
 ## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
-Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW-Font-Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface based in Clarity & Legibility. Check it out here: &url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts" title="Tuitear" target="_blank">
+Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW Font Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface based in Clarity & Legibility. Check it out here: &url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts" title="Tuitear" target="_blank">
   ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 </a>
 
