@@ -14,7 +14,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 ## Table of Contents
 * [What's included?](#What's-included?)
 * [Technologies Used](#technologies-used)
-* [Download & Install](#download-&amp;-install)
+* [Download & Install](#download/install)
 * [Browser support](#browser-support)
 * [Project status](#project-status)
 * [Contact](#contact)
@@ -32,7 +32,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 - [Convertio.co](https://convertio.co/)
 - [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
-### Download & Install
+## Download/Install
 <a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/download.png" width="420" height="130"></a>
 <br />
 MD5:    c096a465469fd3006a18d2cbea9f7352<br />
@@ -72,8 +72,7 @@ Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me! /
 </a>
 
 ## Copyright and license
-![Github](https://img.shields.io/static/v1?label=license&message=SIL1.1&color=orange)
-
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
+![Github](https://img.shields.io/static/v1?label=license&message=SIL1.1&color=orange)
 
 Thanks for viewing/downloading ;)
