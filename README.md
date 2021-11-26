@@ -14,7 +14,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 ## Table of Contents
 * [What's included?](#What's-included?)
 * [Technologies Used](#technologies-used)
-* [Download & Install](#download-&-install)
+* [Download & Install](#download-&amp;-install)
 * [Browser support](#browser-support)
 * [Project status](#project-status)
 * [Contact](#contact)
@@ -33,7 +33,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 - [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
 ### Download & Install
-<a href="https://github.com/mixtim/fonts/releases/download/miXTim_Sans-serif_Regular_v1.0.zip"><img alt="miXTim_Sans-serif_Regular_v1.0.0.zip - November 15, 2021 - 58.4 KB" src="./extras/download.png" width="520" height="130"></a>
+<a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="miXTim_Sans-serif_Regular_v1.0.0.zip - November 15, 2021 - 58.4 KB" src="./extras/download.png" width="420" height="130"></a>
 
 ### Browser support
 ```html
@@ -65,7 +65,7 @@ Project is: _in progress_
 
 ## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
-Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
+Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=Wow: NEW Font Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface based in Clarity & Legibility. Check it out here! &url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 
 ## Copyright and license
 ![Github](https://img.shields.io/static/v1?label=license&message=SIL1.1&color=orange)
