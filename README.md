@@ -68,7 +68,9 @@ Project is: _in progress_
 
 ## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!
-Tweet this: [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)](https://twitter.com/intent/tweet?text=NEW-Font-Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface based in Clarity & Legibility. Check it out here: &url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
+Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW-Font-Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface based in Clarity & Legibility. Check it out here: &url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts" title="Tuitear" target="_blank">
+  [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)]
+</a>
 
 ## Copyright and license
 ![Github](https://img.shields.io/static/v1?label=license&message=SIL1.1&color=orange)
