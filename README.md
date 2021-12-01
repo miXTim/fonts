@@ -74,6 +74,6 @@ Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW Font Released! In
 
 ## Copyright
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
- ![Github](https://img.shields.io/static/v1?label=license&message=SIL 1.1&color=orange)
+ ![Github](https://img.shields.io/static/v1?label=license&message=SIL&nbsp;1.1&color=orange)
 
 Thanks for viewing/downloading ;)
