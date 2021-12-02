@@ -9,7 +9,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 
 ## miXTim Regular: free sans-serif font with ligatures
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
-> Live demo [_here_](https://mixtim.github.io).
+> Live demo [_here_](https://mixtim.github.io/mixtim-font/index.html).
 
 ## Table of Contents
 * [What's included?](#What's-included?)
