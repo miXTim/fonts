@@ -37,17 +37,13 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 <br />
 <table>
   <tr>
-    <td>MD5:</td><td>
-```
-c096a465469fd3006a18d2cbea9f7352
-```
-    </td></tr>
+    <td>MD5:</td>
+    <td>c096a465469fd3006a18d2cbea9f7352</td>
+  </tr>
   <tr>
-    <td>SHA1:</td><td>
-```
-0151a5d7f73d63557a09671e48f9f86b826be720
-```
-    </td></tr>
+    <td>SHA1:</td>
+    <td>0151a5d7f73d63557a09671e48f9f86b826be720</td>
+  </tr>
 </table>
 
 ### Browser support
