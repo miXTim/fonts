@@ -9,7 +9,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 
 ## miXTim Regular: free sans-serif font with ligatures
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://mixtim.github.io).
 
 ## Table of Contents
 * [What's included?](#What's-included?)
@@ -35,8 +35,10 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 ## Download and Install
 <a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/dl_en.png" width="420" height="130"></a>
 <br />
-<small>MD5:    c096a465469fd3006a18d2cbea9f7352<br />
-SHA1:   0151a5d7f73d63557a09671e48f9f86b826be720</small>
+<small>MD5:</small><br />
+c096a465469fd3006a18d2cbea9f7352
+<small>SHA1:</small><br />
+0151a5d7f73d63557a09671e48f9f86b826be720
 
 ### Browser support
 ```html
@@ -68,7 +70,7 @@ Project is: _in progress_
 
 ## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me!<br />
-Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW Font Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface which focus on Clarity and Legibility." title="Twitter" target="_blank">
+Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW Font Released! Introducing miXTim Regular, a modern geometric and humanist sans-serif typeface which focus on Clarity and Legibility. Check it out! https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts" title="Twitter" target="_blank">
   ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FmiXTim%2Ffonts)
 </a>
 
