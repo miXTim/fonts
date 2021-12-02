@@ -35,10 +35,14 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 ## Download and Install
 <a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/dl_en.png" width="420" height="130"></a>
 <br />
-<small>MD5:</small><br />
-<code>c096a465469fd3006a18d2cbea9f7352</code>
-<small>SHA1:</small><br />
-<code>0151a5d7f73d63557a09671e48f9f86b826be720</code>
+<small>MD5:</small>
+```
+c096a465469fd3006a18d2cbea9f7352
+```
+<small>SHA1:</small>
+```
+0151a5d7f73d63557a09671e48f9f86b826be720
+```
 
 ### Browser support
 ```html
