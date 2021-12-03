@@ -1,7 +1,7 @@
 # [miXTim font family](https://github.com/miXTim)
 ![Github](https://img.shields.io/github/v/release/mixtim/fonts?logo=miXTim)
 
-<img alt="mixtim regular demo" style="height: auto;" src="./extras/mixtim-regular-demo.png" width="452" height="454" />
+<img alt="mixtim regular demo" style="max-width: 100%;height: auto;" src="./extras/mixtim-regular-demo.png" width="452" height="454" />
 
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
