@@ -8,8 +8,9 @@
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
 
-## miXTim Regular: free sans-serif font with ligatures
+## miXTim Regular: free sans-serif font
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
+> 
 > Live demo [_here_](https://mixtim.github.io/mixtim-font/index.html).
 
 ## Table of Contents
