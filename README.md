@@ -6,8 +6,6 @@
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
 
-<img alt="logotipo" src="./extras/logo.svg" width="313" height="51">
-
 ## miXTim Regular: free sans-serif font with ligatures
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
 > Live demo [_here_](https://mixtim.github.io/mixtim-font/index.html).
@@ -84,5 +82,6 @@ Tweet this: <a href="https://twitter.com/intent/tweet?text=NEW Font Released! In
 ## Copyright ![Github](https://img.shields.io/static/v1?label=license&message=SIL&nbsp;1.1&color=orange)
 Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font License 1.1](https://github.com/miXTim/fonts/blob/main/LICENSE).
 
-
 Thanks for viewing/downloading ;)
+
+<img alt="logotipo" src="./extras/logo.svg" width="313" height="51">
