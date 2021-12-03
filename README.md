@@ -1,11 +1,12 @@
 # [miXTim font family](https://github.com/miXTim)
 ![Github](https://img.shields.io/github/v/release/mixtim/fonts?logo=miXTim)
 
+<img alt="mixtim regular demo" src="./extras/mixtim-regular-demo.png" width="452" height="454">
+
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
 
 <img alt="logotipo" src="./extras/logo.svg" width="313" height="51">
-
 
 ## miXTim Regular: free sans-serif font with ligatures
 > miXTim Font is a **modern typeface** which focus on Clarity & Legibility.<br>
@@ -33,7 +34,7 @@ Designed with clean and stylized contemporary geometry, «miXTim» is a type sys
 - [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
 ## Download and Install
-<a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/dl_en.png" width="420" height="130"></a>
+<a href="https://github.com/miXTim/fonts/archive/refs/tags/v1.0.0.zip"><img alt="download font - November 15, 2021 - 122 KB (125.565 bytes)" src="./extras/dl_en.png" width="330" height="104"></a>
 <br />
 <table>
   <tr>
