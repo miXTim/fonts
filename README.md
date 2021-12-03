@@ -3,7 +3,7 @@
 
 ![imagen](https://user-images.githubusercontent.com/82184200/144589137-7b859b6e-ebba-4b67-bcfc-82a81ef0db05.png)
 
-<img alt="mixtim regular demo" style="max-width: 100%;height: auto;" src="./extras/mixtim-regular-demo.png" width="452" height="454" />
+<!--img alt="mixtim regular demo" src="./extras/mixtim-regular-demo.png" width="452" height="454" /-->
 
 Introducing “miXTim” –a modern geometric sans-serif typeface, inspired by elegance.<br>
 Designed with clean and stylized contemporary geometry, «miXTim» is a type system with high refined curves which focus on Clarity & Legibility.
