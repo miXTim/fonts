@@ -84,4 +84,5 @@ Code copyright 2021 Juande Megias Roca. Code released under the [SIL Open Font L
 
 Thanks for viewing/downloading ;)
 
+<br>
 <img alt="logotipo" src="./extras/logo.svg" width="313" height="51">
