@@ -1,5 +1,5 @@
 # [miXTim Fonts](https://github.com/miXTim/fonts)
-![miXTim Font](../res/logo.svg)
+![miXTim Font](../../../res/logo.svg)
 
 ## Modegg v4 Slab: free slab serif font
 > Modegg v4 Font is a **basic latin typeface** based on Modegg v4 normal.
