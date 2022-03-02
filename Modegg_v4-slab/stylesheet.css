@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'modegg_v4_slab';
+	src: url('modegg-v4-slab.eot');
+	src: url('modegg-v4-slab.eot?#iefix') format('embedded-opentype'),
+			 url('modegg-v4-slab.woff2') format('woff2'),
+			 url('modegg-v4-slab.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
