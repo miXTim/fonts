@@ -3,6 +3,7 @@
 
 ## Modegg v4 Slab: free slab serif font
 > Modegg v4 Font is a **basic latin typeface** based on Modegg v4 normal.
+> 
 > Former parameters [_link_](https://en.m.fontke.com/font/12316704/).
 
 ![Typeface sample](./Modegg-sample-light.png#gh-light-mode-only)
