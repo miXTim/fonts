@@ -1,8 +1,7 @@
 # [miXTim Fonts](https://github.com/miXTim/fonts)
 <img alt="logotipo" src="https://github.com/miXTim/fonts/blob/2701ba0e793c3ca356d01a3e3b8b1b86d1fa2888/extras/logo.svg" style="max-width: 100%;" width="313" height="51">
 
-## Modegg v4 Slab: free slab serif font
-> Modegg v4 Font is a **basic latin typeface** based on Modegg v4 normal.
+## Modegg v4 Slab: free **basic latin typeface** based on Modegg v4 normal.
 > 
 > Former parameters [_link_](https://en.m.fontke.com/font/12316704/).
 
